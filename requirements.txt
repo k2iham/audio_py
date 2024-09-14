@@ -1,0 +1,4 @@
+PyPDF2==1.26.0
+transformers==4.30.0
+torch==2.0.0
+gtts==2.2.4

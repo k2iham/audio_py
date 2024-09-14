@@ -25,7 +25,7 @@ Make sure you have Python 3.7 or higher installed on your machine. You can downl
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/pdf-to-audiobook.git
+    git clone https://github.com/k2iham/audio_py.git
     cd pdf-to-audiobook
     ```
 
@@ -51,10 +51,10 @@ Make sure you have Python 3.7 or higher installed on your machine. You can downl
 2. **Run the script:**
 
     ```bash
-    python convert_pdf_to_audiobook.py
+    python audio.py
     ```
 
-    Make sure to update the `pdf_file_path` and `output_audio_file` variables in `convert_pdf_to_audiobook.py` to match your file names.
+    Make sure to update the `pdf_file_path` and `output_audio_file` variables in `audio.py` to match your file names.
 
 ## Example
 
